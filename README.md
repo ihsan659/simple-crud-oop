@@ -1,5 +1,5 @@
 # FreeCodeCamp SIMPLE CRUD OOP
-### By Zonacoding How To Code Well
+### By Zonacoding
 
 - [Requirements](#Requirements)
 - [Installation](#installation)
